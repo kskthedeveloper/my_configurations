@@ -72,4 +72,3 @@ nnoremap <leader>. :CtrlPTag<cr>
 nnoremap <Leader>b :TagbarToggle<CR>
 nnoremap <Leader>f :FZF<CR>
 let user_emmet_expandabbr_key = '<c-z>'
-
